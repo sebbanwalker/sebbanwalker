@@ -2,7 +2,7 @@
 
 I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Sweden. Although my main passion lies in Frontend Development, I have over 12 years of coding experience across a wide range of technologies and languages.
 
-# 💻 Languages & Technologies
+# Languages & Technologies
 
 ### Main Stack
 
@@ -51,15 +51,15 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
-# 🌍 Multilingual in Code
+# Multilingual in Code
 
 I have proficiency in multiple programming languages, including TypeScript, Java, C#, and C++, and love solving complex problems across different domains. 
 
-# 🎮 Game Development & Beyond
+# Game Development & Beyond
 
 My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
 
-# 🚀 Always Learning
+# Always Learning
 
 Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
 
