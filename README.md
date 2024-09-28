@@ -55,13 +55,17 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 
 I have proficiency in multiple programming languages, including TypeScript, Java, C#, and C++, and love solving complex problems across different domains. 
 
-# Game Development & Beyond
+# Beyond Frontend
 
-My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
+My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms & data structures, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
 
 # Always Learning
 
 Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
+
+# What am I working on right now?
+
+Right now I am working on a brand new portfolio, developing an idle browser game, and learning Digital Signal Processing in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
 
 # Stats
 
