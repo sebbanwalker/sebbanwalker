@@ -9,6 +9,10 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 </div>
 
+# Other tech I use
+
+
+
 ![sebbanwalker's Stats](https://github-readme-stats.vercel.app/api?username=sebbanwalker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![sebbanwalker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbanwalker&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
