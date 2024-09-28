@@ -1,22 +1,22 @@
-Hi, I'm Sebastian Walker 👋
+# Hi, I'm Sebastian Walker 👋
 
 I'm a junior frontend developer with a fullstack focus, based in Stockholm, Sweden. Although my main passion lies in frontend development, I have over 12 years of coding experience across a wide range of technologies and languages.
-💻 Languages & Technologies
+# 💻 Languages & Technologies
 
-    Frontend: JavaScript (React.js), TypeScript, HTML, CSS, Flexbox layouts
-    Backend: Node.js, Java, C#, Databases (SQL, NoSQL)
-    Game Development: C++, Unity
-    Other Expertise: Machine Learning, Digital Signal Processing (DSP), Algorithms & Data Structures
+* Frontend: JavaScript (React.js), TypeScript, HTML, CSS, Flexbox layouts
+* Backend: Node.js, Java, C#, Databases (SQL, NoSQL)
+* Game Development: C++, Unity
+* Other Expertise: Machine Learning, Digital Signal Processing (DSP), Algorithms & Data Structures
 
-🌍 Multilingual in Code
+# 🌍 Multilingual in Code
 
 I have proficiency in multiple programming languages, including TypeScript, Java, C#, and C++, and love solving complex problems across different domains.
-🎮 Game Development & Beyond
+#🎮 Game Development & Beyond
 
 My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
-🚀 Always Learning
+#🚀 Always Learning
 
-Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications.
+Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
 
 # Main Stack
 
