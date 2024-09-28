@@ -1,27 +1,10 @@
 # Hi, I'm Sebastian Walker 👋
 
-I'm a junior frontend developer with a fullstack focus, based in Stockholm, Sweden. Although my main passion lies in frontend development, I have over 12 years of coding experience across a wide range of technologies and languages.
+I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Sweden. Although my main passion lies in Frontend Development, I have over 12 years of coding experience across a wide range of technologies and languages.
 
 # 💻 Languages & Technologies
 
-* Frontend: JavaScript (React.js), TypeScript, HTML, CSS, Flexbox layouts
-* Backend: Node.js, Java, C#, Databases (SQL, NoSQL)
-* Game Development: C++, Unity
-* Other Expertise: Machine Learning, Digital Signal Processing (DSP), Algorithms & Data Structures
-
-# 🌍 Multilingual in Code
-
-I have proficiency in multiple programming languages, including TypeScript, Java, C#, and C++, and love solving complex problems across different domains.
-
-# 🎮 Game Development & Beyond
-
-My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
-
-# 🚀 Always Learning
-
-Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
-
-# Main Stack
+## Main Stack
 
 <div align="center">
 	<img width="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -37,7 +20,7 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 	
 </div>
 
-# Other tech I use
+## Other tech I use
 
 
 <div align="center">
@@ -67,6 +50,18 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
+
+# 🌍 Multilingual in Code
+
+I have proficiency in multiple programming languages, including TypeScript, Java, C#, and C++, and love solving complex problems across different domains. 
+
+# 🎮 Game Development & Beyond
+
+My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
+
+# 🚀 Always Learning
+
+Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
 
 # Stats
 
