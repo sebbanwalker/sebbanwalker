@@ -4,7 +4,7 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 
 # 💻 Languages & Technologies
 
-## Main Stack
+### Main Stack
 
 <div align="center">
 	<img width="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -20,7 +20,7 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 	
 </div>
 
-## Other tech I use
+### Other tech I use
 
 
 <div align="center">
