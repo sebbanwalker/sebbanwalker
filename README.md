@@ -11,6 +11,9 @@
 
 # Other tech I use
 
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
+</div>
 
 # Stats
 ![sebbanwalker's Stats](https://github-readme-stats.vercel.app/api?username=sebbanwalker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
