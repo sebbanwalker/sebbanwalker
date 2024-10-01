@@ -69,7 +69,7 @@ Right now I am working on a brand new portfolio, developing an idle browser game
 
 # Certificates
 
-[Responsive Web Design]([https://pages.github.com/](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design))
+[Responsive Web Design](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design)
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sebbanwalker/javascript-algorithms-and-data-structures-v8)
 
 # Stats
