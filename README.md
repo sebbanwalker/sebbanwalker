@@ -67,7 +67,7 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 
 Right now I am working on a brand new portfolio, developing an idle browser game, and learning Digital Signal Processing in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
 
-# Certificates
+# Certification
 
 * [Responsive Web Design](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design) - Issued Sept 2024
 
