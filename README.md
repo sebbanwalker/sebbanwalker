@@ -67,6 +67,11 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 
 Right now I am working on a brand new portfolio, developing an idle browser game, and learning Digital Signal Processing in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
 
+# Certificates
+
+[Responsive Web Design]([https://pages.github.com/](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design))
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sebbanwalker/javascript-algorithms-and-data-structures-v8)
+
 # Stats
 
 ![sebbanwalker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbanwalker&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
