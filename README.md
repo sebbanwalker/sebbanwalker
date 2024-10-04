@@ -20,7 +20,7 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 	
 </div>
 
-### Other tech I've used
+### Other tech I'm using
 
 
 <div align="center">
