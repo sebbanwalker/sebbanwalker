@@ -54,7 +54,7 @@ I'm a Junior Frontend Developer with a Fullstack focus, based in Stockholm, Swed
 
 # Multilingual in Code
 
-I have proficiency in multiple programming languages, including TypeScript/JavaScript, Java, C#, and C++, and love solving complex problems across different domains. 
+I have proficiency in multiple programming languages, including TypeScript/JavaScript, Java, Python, C#, and C++, and love solving complex problems across different domains. 
 
 # Beyond Frontend
 
