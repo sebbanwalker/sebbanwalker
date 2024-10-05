@@ -68,6 +68,10 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 
 Right now I am working on a brand new portfolio, several frontend GUIs, improving my skills within Frontend and learning Digital Signal Processing in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
 
+# What tech am I finding fascinating at the moment?
+
+Right now I'm taking a look at integrating Deno 2.0 into my workflow, and I'm taking a deep dive into JUCE Framework. 
+
 # Certification
 
 * [Responsive Web Design](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design) - Issued Sept 2024
