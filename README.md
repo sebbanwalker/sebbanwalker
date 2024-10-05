@@ -66,7 +66,7 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 
 # What am I working on right now?
 
-Right now I am working on a brand new portfolio, several frontend GUIs, improving my skills within Frontend and learning Digital Signal Processing in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
+Right now I am working on a brand new portfolio, several frontend GUIs, improving my skills within Frontend and building rudimentary VSTs in C++ with JUCE Framework. I also practice LeetCode daily, check my profile out in the side bar!
 
 # What tech am I finding fascinating at the moment?
 
