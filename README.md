@@ -70,7 +70,7 @@ Right now I am working on a brand new portfolio, several frontend GUIs, improvin
 
 # What tech am I finding fascinating at the moment?
 
-Right now I'm taking a look at integrating Deno 2.0 into my workflow, and I'm taking a deep dive into JUCE Framework. 
+Right now I'm taking a look at integrating Deno 2.0 into my workflow, trying to build simple neural networks for ML in Python, and I'm taking a deep dive into JUCE Framework. 
 
 # Certification
 
