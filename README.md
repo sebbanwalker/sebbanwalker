@@ -62,7 +62,7 @@ My experience isn't limited to web development. I’ve dabbled in game developme
 
 # Always Learning
 
-Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I read weekly newsletters across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
+Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I consume news weekly across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
 
 # What am I working on right now?
 
