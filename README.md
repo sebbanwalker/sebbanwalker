@@ -77,10 +77,6 @@ Tech is constantly evolving, and so am I. I love diving into new technologies, i
 * I'm studying machine learning by building simple neural networks with Python
 * I'm right now in a deepdive in JUCE framework to learn DSP, aspiring to one day build my own proprietary VSTs
 
-# What is on the horizon?
-
-I really want to 
-
 # Certification
 
 * [Responsive Web Design](https://www.freecodecamp.org/certification/sebbanwalker/responsive-web-design) - Issued Sept 2024
