@@ -60,13 +60,6 @@ My experience isn't limited to web development. I’ve dabbled in game developme
 
 Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I consume news weekly across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
 
-# What am I working on right now?
-
-* New 2024 Portfolio
-* Two frontend applications and one fullstack application
-* Building rudimentary VSTs in C++ with JUCE Framework.
-* I also practice LeetCode daily, check my profile out in the side bar!
-
 # What tech am I finding fascinating at the moment?
 
 * I'm taking a look at integrating Deno 2.0 & Shadcn UI into my workflow to optimize development efficiency
