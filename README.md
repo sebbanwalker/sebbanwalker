@@ -48,9 +48,13 @@ Software Developer & Audio Engineer based in Stockholm, Sweden.
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
-# Code Languages
+# Languages
 
-I have proficiency in multiple programming languages, including TypeScript/JavaScript, Java, Python, C#, and C++, and love solving complex problems across different domains. 
+* TypeScript/JavaScript
+* Java
+* Python
+* C#
+* C++
 
 # Key Areas of expertise
 
