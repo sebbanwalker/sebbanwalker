@@ -20,7 +20,7 @@ Software Developer & Audio Engineer based in Stockholm, Sweden.
 	
 </div>
 
-### Other tech experience
+### Other tech
 
 
 <div align="center">
