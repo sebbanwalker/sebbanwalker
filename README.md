@@ -55,10 +55,6 @@ Software Developer & Audio Engineer based in Stockholm, Sweden.
 * Algorithms & Data Structures
 * Sound Design
 
-# Always Learning
-
-Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I consume news weekly across different domains to learn about new frameworks, tech & updates in the tech field in general. 
-
 # What tech am I finding fascinating at the moment?
 
 * I'm taking a look at integrating Deno 2.0 & Shadcn UI into my workflow to optimize development efficiency
