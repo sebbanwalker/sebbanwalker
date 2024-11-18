@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Frontend Developer with a Fullstack focus, based in Stockholm, Sweden. Although my main passion lies in Frontend Development, I have over 12 years of coding experience across a wide range of technologies and languages
+Software Developer & Audio Engineer based in Stockholm, Sweden.
 
 # Languages & Tech
 
