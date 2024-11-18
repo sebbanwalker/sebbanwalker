@@ -48,23 +48,24 @@ Software Developer & Audio Engineer based in Stockholm, Sweden.
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
-# Multilingual in Code
+# Code Languages
 
 I have proficiency in multiple programming languages, including TypeScript/JavaScript, Java, Python, C#, and C++, and love solving complex problems across different domains. 
 
-# Beyond Frontend
+# Key Areas of expertise
 
-My experience isn't limited to web development. I’ve dabbled in game development and have a solid understanding of backend architecture, algorithms & data structures, and machine learning. Whether building a game, optimizing data structures, or designing databases, I enjoy tackling a variety of challenges!
+* Frontend Architecture
+* Algorithms & Data Structures
+* Sound Design
 
 # Always Learning
 
-Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I consume news weekly across different domains to learn about new frameworks, runtimes, updates in the tech field in general. 
+Tech is constantly evolving, and so am I. I love diving into new technologies, improving my existing skill set, and finding new ways to build better, faster, and more intuitive applications. I consume news weekly across different domains to learn about new frameworks, tech & updates in the tech field in general. 
 
 # What tech am I finding fascinating at the moment?
 
 * I'm taking a look at integrating Deno 2.0 & Shadcn UI into my workflow to optimize development efficiency
-* I'm studying machine learning by building simple neural networks with Python
-* I'm right now in a deepdive in JUCE framework to learn DSP, aspiring to one day build my own proprietary VSTs
+* I'm right now in a deepdive in JUCE framework (C++) to learn DSP, aspiring to one day build my own proprietary VSTs
 
 # Certification
 
